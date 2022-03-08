@@ -7,6 +7,4 @@
 <div float="left" align="right">
     <img alt="kubernetes-icon" width="12%" src="./assets/img/kubernetes-logo.png">
     <img alt="terraform-icon" width="12%" src="./assets/img/terraform-logo.png">
-    <img alt="flutter-icon" width="4%" src="./assets/img/flutter-logo.png">
-    <img alt="dart-icon" width="4%" src="./assets/img/dart-logo.png">
 </div>
