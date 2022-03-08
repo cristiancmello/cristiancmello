@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @cristiancmello
-- 🇧🇷 I'm from Brazil.
+- :brazil: I'm from Brazil.
 - 👀 I'm interested in Programming Languages and DevOps Technologies \o/
 - 🌱 I'm currently learning Java, Kubernetes and Terraform.
 - 💞️ I'm looking to collaborate on Full Stack Teams!
