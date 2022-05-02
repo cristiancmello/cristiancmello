@@ -5,5 +5,5 @@
 - 📫 Contact Email is cristianc.mello@gmail.com
 
 <div float="left" align="right">
-    <img alt="java-icon" width="5%" src="./assets/img/java-logo.png">
+    <img alt="java-icon" width="6%" src="./assets/img/java-logo.png">
 </div>
