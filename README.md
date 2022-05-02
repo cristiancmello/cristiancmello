@@ -6,6 +6,4 @@
 
 <div float="left" align="right">
     <img alt="java-icon" width="12%" src="./assets/img/java-logo.png">
-    <img alt="kubernetes-icon" width="12%" src="./assets/img/kubernetes-logo.png">
-    <img alt="terraform-icon" width="12%" src="./assets/img/terraform-logo.png">
 </div>
