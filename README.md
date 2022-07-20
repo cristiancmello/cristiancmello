@@ -1,7 +1,7 @@
 - 👋 Hi! My name's Cristian. My username is @cristiancmello
 - :brazil: I'm live in Brazil.
 - 👀 I'm interested in Programming Languages, TDD and BDD \o/
-- 🌱 I'm currently learning Java 11, Spring Boot and JUnit 5
+- 🌱 Spring Boot and Java
 - 📫 Contact Email is cristianc.mello@gmail.com
 
 <div float="left" align="right">
