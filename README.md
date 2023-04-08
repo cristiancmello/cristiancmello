@@ -1,3 +1,3 @@
 - 👋 Hi! My name's Cristian. My username is @cristiancmello
-- :brazil: I'm live in Brazil.
+- :brazil: I'm live in Vitoria, Brazil.
 - 📫 Contact Email is cristianc.mello@gmail.com
